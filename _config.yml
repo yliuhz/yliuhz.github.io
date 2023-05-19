@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yue Liu (刘悦)"
-description              : ""
+title                    : "Yue LIU (刘悦)"
+description              : "CS PhD at HKUST. Focusing on graph machine learning."
 repository               : "yliuhz/yliuhz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,16 +21,16 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yue Liu (刘悦)"
+  name             : "Yue LIU (刘悦)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
-  employer         :
+  bio              : "The Hong Kong University of Science and Technology (HKUST)"
+  location         : "Hong Kong SAR, China"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=a3E_K24AAAAJ"
-  email            : "yliuhz@foxmail.com"
+  email            : "yliuhz@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "https://yliuhz.github.io/blogs/"
   bitbucket        :
   codepen          :
   dribbble         :

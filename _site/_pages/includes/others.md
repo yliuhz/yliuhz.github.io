@@ -1,5 +1,6 @@
 
 # 📖 Educations
+- *2023.04 - 2023.08* (now), Research Assistant, Department of CSE, HKUST, Hong Kong SAR, China
 - *2020.09 - 2023.03*, Master, Computer Technology, Zhejiang University, Hangzhou, China 
 - *2016.09 - 2020.06*, Undergraduate, Mathematics and Applied Mathematics. Zhejiang University, Hangzhou, China. 
 
