@@ -24,13 +24,13 @@ author:
   name             : "Yue Liu (刘悦)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The Hong Kong University of Science and Technology (HKUST)"
-  location         : "Hong Kong SAR, China"
+  location         : # "Hong Kong SAR, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=a3E_K24AAAAJ"
   email            : "yliuhz@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://yliuhz.github.io/blogs/"
+  uri              : # "https://yliuhz.github.io/blogs/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -57,6 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  zhihu            : "yue-da-84-55"
 
 
 # Reading Files
