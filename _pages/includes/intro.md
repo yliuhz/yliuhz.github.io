@@ -3,4 +3,4 @@ Before that, I received my master's degree in Computer Technology at Zhejiang Un
 
 My research interest includes graph data management and graph neural networks. I have published 1 paper at the top international Database conference ICDE. 
 
-My personal blog page: [LIU Yue's blogs](https://yliuhz.github.io/blogs)
+My personal blog page: [LIU Yue's blogs](https://yliuhz.github.io/blogs) [知乎](https://www.zhihu.com/people/yue-da-84-55)
