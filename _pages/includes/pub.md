@@ -1,5 +1,25 @@
 
 # 📝 Publications 
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Faithful in Steps: Improving Generalization and Citation in RAG via Query Decomposition
+
+**Yue Liu**, Zhongying Ru, Shimin Di, Jipeng Zhang, Ruiyuan Zhang, Xiaofang Zhou
+
+
+<!-- <p><a href="https://github.com/yliuhz/UCS-ICDE22"><strong>Project</strong></a> | <a href="https://github.com/yliuhz/PMAW"><img src="https://img.shields.io/github/stars/yliuhz/UCS-ICDE22?style=social" alt="" /></a></p> -->
+
+
+
+- **Abstract**: In this paper, we study how to generate faithful citations in RAG question-answering systems.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2022</div><img src='images/ICDE22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
